@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EspressoPracticeTemplate</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in_label">Log in</string>
+    <string name="email_error">Email is incorrect</string>
+    <string name="password_error">Password is invalid</string>
+</resources>
