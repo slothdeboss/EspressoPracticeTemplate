@@ -5,4 +5,23 @@
     <string name="log_in_label">Log in</string>
     <string name="email_error">Email is incorrect</string>
     <string name="password_error">Password is invalid</string>
+    <string name="or">or</string>
+    <string name="sign_up_label">Sign up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="forgot_password_button">Forgot password?</string>
+    <string name="enter_your_email">Enter your email to request reset of your current password</string>
+    <string name="reset">Reset</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="reset_password_success_message">Reset password email is successfuly sent to %s</string>
+    <string name="good">Good</string>
+    <string name="empty_email_error">Email can\'t be empty</string>
+    <string name="password_cant_be_empty">Password can\'t be empty</string>
+    <string name="password_is_too_short">Password length should be at least 10 chars</string>
+    <string name="passwords_should_match">Passwords should match</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="agreed_to_terms_and_conditions">Agree to Terms &amp; Conditions</string>
+    <string name="agreed_to_terms_and_conditions_error">You should agree to Terms and Conditions</string>
+    <string name="welcome_user">Welcome,\n%s!</string>
+    <string name="user_not_exists_error">User with this email and password not exists</string>
 </resources>
